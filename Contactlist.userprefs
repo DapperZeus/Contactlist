@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{FCB8608D-2F53-430A-A9BA-F98013803118}|Default">
+  <MonoDevelop.Ide.ItemProperties.Contactlist>
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.Contactlist>
+  <MonoDevelop.Ide.Workbench ActiveDocument="ContactList/Main.storyboard">
+    <Files>
+      <File FileName="ContactList/AppDelegate.cs" Line="1" Column="1" />
+      <File FileName="ContactList/Main.storyboard" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

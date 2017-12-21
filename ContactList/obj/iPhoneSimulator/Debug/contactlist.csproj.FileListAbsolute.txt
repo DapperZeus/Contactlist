@@ -1,0 +1,5 @@
+/Users/matthewp25/Desktop/repos/cs20-contact-list-DapperZeus/ContactList/ContactList/obj/iPhoneSimulator/Debug/device-builds/iphone7.2-10.3.1/ibtool/_BundleResourceWithLogicalName.items
+/Users/matthewp25/Desktop/repos/cs20-contact-list-DapperZeus/ContactList/ContactList/obj/iPhoneSimulator/Debug/device-builds/iphone7.2-10.3.1/actool/_PartialAppManifest.items
+/Users/matthewp25/Desktop/repos/cs20-contact-list-DapperZeus/ContactList/ContactList/obj/iPhoneSimulator/Debug/device-builds/iphone7.2-10.3.1/actool/_BundleResourceWithLogicalName.items
+/Users/matthewp25/Desktop/repos/cs20-contact-list-DapperZeus/ContactList/ContactList/obj/iPhoneSimulator/Debug/device-builds/iphone7.2-10.3.1/optimized/
+/Users/matthewp25/Desktop/repos/cs20-contact-list-DapperZeus/ContactList/ContactList/obj/iPhoneSimulator/Debug/contactlist.csproj.CoreCompileInputs.cache
