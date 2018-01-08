@@ -107,5 +107,11 @@
       <DependentUpon>ContactTableViewCell_.cs</DependentUpon>
     </Compile>
   </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Unknown" />
+    <BundleResource Include="Resources\Unknown-2" />
+    <BundleResource Include="Resources\Unknown-3" />
+    <BundleResource Include="Resources\Unknown-4" />
+  </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\iOS\Xamarin.iOS.CSharp.targets" />
 </Project>
