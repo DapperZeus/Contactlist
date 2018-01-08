@@ -57,11 +57,11 @@ namespace Contactlist
 
         public override UITableViewCell GetCell(UITableView tableView, NSIndexPath indexPath)
         {
-            var cell = tableView.DequeueReusableCell("Contact");
+            var cell = tableView.DequeueReusableCell("Contact") as ContactTableViewCell;
 
             var data = contactList[indexPath.Row];
 
-            cell.TextLabel.Text = data.Name;
+            cell.ContactData = data;
 
             return cell;
         }
