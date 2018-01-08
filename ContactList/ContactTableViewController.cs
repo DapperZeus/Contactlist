@@ -10,7 +10,7 @@ namespace Contactlist
 
         List<Contact> contactList;
 
-        public ContactTableViewController (IntPtr handle) : base (handle)
+        public ContactTableViewController(IntPtr handle) : base(handle)
         {
             contactList = new List<Contact>();
 
@@ -43,7 +43,7 @@ namespace Contactlist
                 Location = "South Park, Colorado"
             });
 
-		}
+        }
 
         public override nint NumberOfSections(UITableView tableView)
         {
@@ -65,14 +65,13 @@ namespace Contactlist
 
             return cell;
         }
-        }
-
-
     }
 
 
 
-    public class Contact 
+
+
+    public class Contact
     {
         public string Name;
         public string Number;
