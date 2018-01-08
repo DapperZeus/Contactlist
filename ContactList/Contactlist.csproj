@@ -110,6 +110,7 @@
     <Compile Include="DetailsViewController.designer.cs">
       <DependentUpon>DetailsViewController.cs</DependentUpon>
     </Compile>
+    <Compile Include="Main.cs" />
   </ItemGroup>
   <ItemGroup>
     <BundleResource Include="Resources\Unknown" />

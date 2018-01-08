@@ -8,3 +8,7 @@
 /Users/matthewp25/Desktop/repos/cs20-contact-list-DapperZeus-master/ContactList/ContactList/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3.1/actool/_BundleResourceWithLogicalName.items
 /Users/matthewp25/Desktop/repos/cs20-contact-list-DapperZeus-master/ContactList/ContactList/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3.1/optimized/
 /Users/matthewp25/Desktop/repos/cs20-contact-list-DapperZeus-master/ContactList/ContactList/obj/iPhoneSimulator/Debug/Contactlist.csproj.CoreCompileInputs.cache
+/Users/matthewp25/Desktop/repos/cs20-contact-list-DapperZeus-master/ContactList/ContactList/bin/iPhoneSimulator/Debug/Contactlist.exe
+/Users/matthewp25/Desktop/repos/cs20-contact-list-DapperZeus-master/ContactList/ContactList/bin/iPhoneSimulator/Debug/Contactlist.pdb
+/Users/matthewp25/Desktop/repos/cs20-contact-list-DapperZeus-master/ContactList/ContactList/obj/iPhoneSimulator/Debug/Contactlist.exe
+/Users/matthewp25/Desktop/repos/cs20-contact-list-DapperZeus-master/ContactList/ContactList/obj/iPhoneSimulator/Debug/Contactlist.pdb
